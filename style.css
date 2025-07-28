@@ -173,3 +173,13 @@ body {
 .button1 {
     color: white;
 }
+
+.button2 {
+    margin: 15px;
+    padding: 15px;
+    border: solid;
+}
+
+.button2 {
+    color: white;
+}
