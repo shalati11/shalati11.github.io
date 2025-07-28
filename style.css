@@ -43,20 +43,6 @@ body {
     border: solid;
 }
 
-.text1 {
-    margin: 35px;
-    padding: 35px;
-    border: solid;
-}
-
-.text1 {
-    color: white;
-    border: solid;
-    border-color: black;
-    border-radius: 10px;
-    background-color: black;
-    padding: 30px;
-}
 
 .text2 {
     margin: 45px;
@@ -182,4 +168,18 @@ body {
 
 .button2 {
     color: white;
+}
+
+.text1 {
+    margin: 40px;
+    padding: 40px;
+    border: solid;
+}
+
+.text1 {
+    color: white;
+    border-color: black;
+    border: radius 10px;
+    background-color: black;
+    padding: 40px;
 }
